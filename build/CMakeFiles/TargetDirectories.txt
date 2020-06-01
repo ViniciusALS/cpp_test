@@ -1,0 +1,3 @@
+/home/vinicius/Documents/programming/cpp_test/build/CMakeFiles/edit_cache.dir
+/home/vinicius/Documents/programming/cpp_test/build/CMakeFiles/rebuild_cache.dir
+/home/vinicius/Documents/programming/cpp_test/build/CMakeFiles/cpp_test.dir
